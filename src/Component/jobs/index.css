@@ -1,0 +1,22 @@
+.Jobs-main-cont{
+  width: 100%;
+  min-height: 100%;
+  background-color: rgb(220, 220, 237);
+}
+.filter-all-jobs-cont{
+  width: 100%;
+  display: flex;
+}
+.filter-sec{
+   width: 30%;
+   min-height: 100vh;
+   
+}
+.Jobs-sec{
+  width: 60%;
+  min-height: 100vh;
+  
+}
+.jobs-link{
+  text-decoration: none;
+}
